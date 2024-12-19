@@ -1,7 +1,7 @@
 // Program to Fill a Polygon Using Scan Line Fill Algorithm in C++.
 
 //#include <conio.h>
-#include <iostream.h>
+#include <iostream>
 #include <graphics.h>
 #include <stdlib.h>
 //#include<dos.h>
